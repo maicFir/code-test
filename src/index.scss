@@ -1,0 +1,21 @@
+.app-container {
+  --border-color: #2db55d;
+  overflow-y: auto;
+  .implement {
+    font-size: 16px;
+    border: 1px solid var(--border-color);
+    display: flex;
+    width: 100px;
+    padding: 5px 0;
+    margin: 10px 0;
+    justify-content: center;
+    cursor: pointer;
+    color: var(--border-color);
+  }
+  &-content {
+    display: flex;
+  }
+  .console {
+    background-color: #e5e5e5;
+  }
+}
