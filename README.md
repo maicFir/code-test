@@ -4,19 +4,19 @@
  * @LineEnd: -------------------------------------------
  * @Author: maicFir
  * @Date: 2023-02-17 20:20:25
- * @LastEditors: anne
+ * @LastEditors: maicFir
  * @LastEditTime: 2023-02-17 20:41:08
  * @Description: 
 -->
 ### code test
-主要模拟code 编辑器执行代码结果
+主要模拟code编辑器执行代码结果
 
 ### 核心插件
 * console-feed
 * @monaco-editor/react
 ### 如何运行
 
-* git clone xxx
+* git clone https://github.com/maicFir/code-test.git
 
 * cd code-test
 
